@@ -1,0 +1,12 @@
+{
+  "name": "my-best-website",
+  "version": "1.0.0",
+  "description": "The ultimate full-stack website ready to deploy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
